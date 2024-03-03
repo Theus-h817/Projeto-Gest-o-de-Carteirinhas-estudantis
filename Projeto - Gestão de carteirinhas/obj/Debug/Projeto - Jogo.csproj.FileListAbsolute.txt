@@ -1,0 +1,61 @@
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Projeto - Gestão de carteirinhas.exe.config
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Projeto - Gestão de carteirinhas.exe
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Projeto - Gestão de carteirinhas.pdb
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Google.Protobuf.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\HtmlRenderer.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\itextsharp.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\MySql.Data.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\NReco.PdfGenerator.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\PdfSharp.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Select.Pdf.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Buffers.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Memory.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\zxing.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\zxing.presentation.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Google.Protobuf.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\HtmlRenderer.pdb
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\itextsharp.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\MySql.Data.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\NReco.PdfGenerator.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\PdfSharp.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Select.Pdf.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Buffers.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Memory.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\zxing.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\zxing.presentation.xml
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Select.Html.dep
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\bin\Debug\Select.Tools.dep
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto - Jogo.csproj.AssemblyReference.cache
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto___Jogo.Form_Fatec.resources
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto___Jogo.Form_Etec.resources
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto___Jogo.Form_Login.resources
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto___Jogo.Form_Sobre.resources
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto___Jogo.Form_Splash.resources
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto___Jogo.Properties.Resources.resources
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto - Jogo.csproj.GenerateResource.cache
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto - Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto - Jogo.csproj.CopyComplete
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto - Gestão de carteirinhas.exe
+C:\Users\Mathe\Documents\Projeto-Jogo-master\Projeto - Jogo\obj\Debug\Projeto - Gestão de carteirinhas.pdb
